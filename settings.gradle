@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "79 Floating Action Button Speed Dial"
